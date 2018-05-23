@@ -6,7 +6,9 @@ Created on Tue May 22 10:20:02 2018
 @author: dlog
 """
 # Aim:
-# General template for Regression models
+# Using Support Vector Regression (SVR) we predict the salary at specific position level.
+# Independent variables are: Level (job position rank)
+# Dependent variables are: Salary
 
 import numpy as np
 import matplotlib.pyplot as plt
